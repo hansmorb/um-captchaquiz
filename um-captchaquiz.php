@@ -2,6 +2,7 @@
 
 /*
    Plugin Name: Ultimate Member Captcha Quiz
+   Plugin URI:  https://github.com/hansmorb/um-captchaquiz
    Description: Adds a custom captcha quiz query to UM.
    Version: 1.0
    Author: Hans Morbach
